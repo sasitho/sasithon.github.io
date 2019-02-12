@@ -1,0 +1,87 @@
+<html>
+
+<head>
+
+<title>สวัสดี</title>
+
+</head>
+
+<body>
+
+<BODY background="Dcc2sHPUwAAH4cj.jpg"></BODY>
+
+<div align="right"><audio controls autoplay loop>
+
+<source src="Sil.mp3">
+
+</audio></div>
+
+<center><h1><b>
+
+<FONT COLOR="#00FF99" size="5">P</FONT>
+
+<FONT COLOR="#00FFFF" size="5">R</FONT>
+
+<FONT COLOR="#00FFFF" size="5">E</FONT>
+
+<FONT COLOR="#00FFFF" size="5">S</FONT>
+
+<FONT COLOR="#FFFF00" size="5">E</FONT>
+
+<FONT COLOR="#00FFFF" size="5">N</FONT>
+
+<FONT COLOR="#FF0000" size="5">T</FONT>
+
+</b></h1></center>
+<center><img src="Untitled.jpg" height="200"><br></center>
+
+
+<center>
+
+<table border="3">
+
+<tr>
+
+<th>ประวัติการศึกษา</th>
+
+</tr>
+
+<tr>
+
+<td>โรงเรียนวัดม่วงหวาน</td>
+
+</tr>
+
+<tr>
+
+<td>โรงเรียนอยุธยานุสรณ์</td>
+</tr>
+
+</table>
+
+
+<dl>
+
+<dt><a name="top">กำลังศึกษาอยู่</a></dt>
+<dd>มหาวิทยาลัยราชภัฎพระนครศรีอยุธยา</dd>
+
+<dd>คณะครุศาสตร์ สาขาคอมพิวเตอร์ศึกษา</dd>
+
+</dl>
+<dt><a name="top">อาชีพที่ใฝ่ฝัน</a>
+</dt>
+<ul>
+<li>อยากเป็นคุณครูบ้านนอก</li>
+
+<li>สอนวิชาความรู้ให้แก่เด็ก</li>
+</ul>
+</center>	
+	
+<center><iframe width="560" height="315" src="https://youtu.be/y8MfksGVWpA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe></center>
+
+<p><a href="#top">Back to top</a>
+</p>
+<p><a href="index.html">Back to firstpage</a></p>
+</body>
+</html>
